@@ -12,7 +12,7 @@ from mrcnn import visualize
 import mrcnn.model as modellib
 
 # Set the ROOT_DIR variable to the root directory of the Mask_RCNN git repo
-ROOT_DIR = 'mrcnn_tutorial'
+ROOT_DIR = 'mrcnn'
 assert os.path.exists(ROOT_DIR), 'ROOT_DIR does not exist. Did you forget to read the instructions above? ;)'
 
 # Import mrcnn libraries
